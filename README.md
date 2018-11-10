@@ -1,0 +1,2 @@
+1. El archivo placetopay.sql es la base de datos del proyecto, es necesario crear una base de datos en el phpMyadmin local que tenga como nombre "placetopay" e importar el archivo.
+2. si se tiene problemas al importar el archivo placetopay.sql una ves creada la base de datos, se peude abrir el archivo en un editor, se copia el codigo, y se pega directamente en la base de datos en el editor de SQL del phpMyadmin.
